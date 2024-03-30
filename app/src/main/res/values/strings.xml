@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practice6</string>
+    <string name="sendData">Отправить</string>
+    <string name="labelMainFragment">Главный фрагмент</string>
+    <string name="notification_title">Notification</string>
+    <string name="returnToMainFragment">Вернуться на главный фрагмент</string>
+    <string name="textOfBanner">Баннер сервиса</string>
+</resources>
